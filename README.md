@@ -1,4 +1,4 @@
-# Xiao Flight Computer - README
+# Xiao IMU AND G METER DATA LOGGER - README
 
 ## 🌐 Network & Access Details (Wi-Fi & OTA)
 * **Wi-Fi Network Name (SSID):** `XIAO_Flight_Data`
